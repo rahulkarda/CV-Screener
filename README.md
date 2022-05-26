@@ -3,10 +3,9 @@ Built using HTML, CSS and Javascript to showcase different candidate details. Fo
 
 The site is live at : https://cvscreenerbyrahul.netlify.app/
 
-<a target="_blank" href="https://nftportalbyrahul.netlify.app">
-          <img src="https://github.com/rahulkarda/rahulkarda/blob/main/images/nftportal.jpg?raw=true" width="100%" alt="NFT Portal"/>
+<a target="_blank" href="https://cvscreenerbyrahul.netlify.app">
+          <img src="https://github.com/rahulkarda/CV-Screener/blob/master/images/cvscreenerbyrahul.jpg?raw=true" width="100%" alt="NFT Portal"/>
 </a>
-<br>
 
 ## Tech Stack
 
