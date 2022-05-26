@@ -11,8 +11,7 @@ function nextCV() {
     fetch('https://randomuser.me/api/')
         .then(response => response.json())
         .then(data => {
-            console.log(data);
-            console.log(data.results[0].picture.large);
+            // console.log(data);
             let name = (`${data.results[0].name.first} ${data.results[0].name.last}`);
             let city = (data.results[0].location.country);
             let avatar = (data.results[0].picture.large);
